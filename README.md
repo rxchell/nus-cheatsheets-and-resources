@@ -1,8 +1,13 @@
 # nus-cheatsheets-and-resources
+- CS2131S AY23/24 Sem 1
+- MA1521 AY23/24 Sem 1
+- CS2100 AY23/24 Sem 1
+  
 - MA1522 AY23/24 Sem 2
 - CS2030S AY23/24 Sem 2
 - CS2040S AY23/24 Sem 2
-  
+
 - CS2109S AY24/25 Sem 1
 - CS2106 AY24/25 Sem 1
+- CS2103T AY24/25 Sem 1
 - ST2334 AY24/25 Sem 1
