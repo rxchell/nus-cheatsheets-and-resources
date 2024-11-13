@@ -1,4 +1,4 @@
-# nus-cheatsheets-and-resources
+# NUS Cheatsheets and Resources (Computer Science)
 - CS2131S AY23/24 Sem 1
 - MA1521 AY23/24 Sem 1
 - CS2100 AY23/24 Sem 1
